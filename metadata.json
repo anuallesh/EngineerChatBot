@@ -1,0 +1,6 @@
+{
+  "name": "EngineerChatbox - CSE Academic Assistant",
+  "description": "A user-friendly AI academic assistant focusing exclusively on Computer Science & Engineering (CSE), powered by RAG and LLMs to query 16 core CSE textbooks with clear numbered citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
